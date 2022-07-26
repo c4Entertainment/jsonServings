@@ -2,3 +2,4 @@ node_modules
 exclusiveRadio
 IPTV/tvCategoryFinder.js
 vTuner/radioCategoryFinder.js
+jsonConsolidator.js
