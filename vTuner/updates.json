@@ -387,6 +387,22 @@
                     }
                 }
             ]
+        },
+        {
+            "update_version": 8,
+            "update_data": [
+                {
+                    "type": "edit",
+                    "content": {
+                        "code": "Kenya",
+                        "title": "Kameme FM 101.1",
+                        "img": "https://item.radio456.com/007452/330159/logo-13698.png",
+                        "genre": "Top 40",
+                        "pop": "5",
+                        "url": "https://kamemefm-atunwadigital.streamguys1.com/kamemefm"
+                    }
+                }
+            ]
         }
     ]
 }
