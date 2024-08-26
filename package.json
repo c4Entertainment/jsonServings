@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mrharel/scrappy": "^1.0.5",
+    "axios": "^1.7.5",
+    "scrappy": "^0.6.0"
+  }
+}
