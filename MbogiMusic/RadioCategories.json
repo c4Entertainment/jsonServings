@@ -1,9 +1,9 @@
 [
     {
-        "title": "Exclusive Radio",
+        "title": "90s90s Radio",
         "author": "MbogiMusic",
-        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/vTuner/radio_test.m3u",
-        "imageUrl": "https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png"
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/90s90s.m3u",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/90s90s_Logo_2017.svg/1200px-90s90s_Logo_2017.svg.png"
 
     }
 ]
