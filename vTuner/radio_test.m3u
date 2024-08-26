@@ -1,16 +1,296 @@
 #EXTM3U
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f416a097-ac6c-49a8-9d73-0c1534a0c2d7.jpg" group-title="Exclusively Blues",Exclusively Gary Moore
-https://streaming.exclusive.radio/er/garymoore/icecast.audio
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6dbddd3e-cba7-40ad-8af0-8b0b5daf5c1d.jpg" group-title="Exclusively Blues",Exclusively Bad Company
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7452d37b-268a-4c48-9b23-a74d2c4ff3fe.jpg" group-title="Exclusively Blues Rock",Exclusively Jimi Hendrix
+https://streaming.exclusive.radio/er/hendrix/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/919882e2-4481-4dfb-90e8-08c30f01e7a5.jpg" group-title="Exclusively Blues Rock",Exclusively Allman Brothers Band
+https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6dbddd3e-cba7-40ad-8af0-8b0b5daf5c1d.jpg" group-title="Exclusively Blues Rock",Exclusively Bad Company
 https://streaming.exclusive.radio/er/badcompany/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f416a097-ac6c-49a8-9d73-0c1534a0c2d7.jpg" group-title="Exclusively Blues Rock",Exclusively Gary Moore
+https://streaming.exclusive.radio/er/garymoore/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/66afd615-592a-462c-8b21-05918ad5e51d.jpg" group-title="Exclusively Blues Rock",Exclusively Creedence Clearwater Revival
+https://streaming.exclusive.radio/er/creedence/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/10b42c11-5b69-4b5e-9d4f-2427aca30218.jpg" group-title="Exclusively Blues Rock",Exclusively Status Quo
+https://streaming.exclusive.radio/er/statusquo/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/eaccf7e6-d89c-4696-a948-fdc035c5ed66.jpg" group-title="Exclusively Blues Rock",Exclusively Rory Gallagher
+https://streaming.exclusive.radio/er/rorygallagher/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg" group-title="Exclusively Blues Rock",Exclusively ZZ Top
+https://streaming.exclusive.radio/er/zztop/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a8fddc52-b67a-4195-91bb-a1d1f7cd6978.jpg" group-title="Exclusively Blues Rock",Exclusively Lynyrd Skynyrd
+https://streaming.exclusive.radio/er/lynyrdskynyrd/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b6f87b41-1d5a-4d22-b935-15167559dcc2.jpg" group-title="Exclusively Blues Rock",Exclusively Stevie Ray Vaughan
+https://streaming.exclusive.radio/er/stevierayvaughan/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6d2bf6c5-9575-4035-b643-270552fd9470.jpg" group-title="Exclusively Blues Rock",Exclusively Joe Bonamassa
+https://streaming.exclusive.radio/er/joebonamassa/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/96468f9e-62ba-4d56-9884-baed7aaf82ba.jpg" group-title="Exclusively Blues Rock",Exclusively Johnny Winter
+https://streaming.exclusive.radio/er/johnnywinter/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1759413c-3ca7-49ad-a1a8-6f8c510123f9.jpg" group-title="Exclusively Blues",Exclusively Bonnie Raitt
+https://streaming.exclusive.radio/er/bonnieraitt/icecast.audio
 #EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/919882e2-4481-4dfb-90e8-08c30f01e7a5.jpg" group-title="Exclusively Blues",Exclusively Allman Brothers Band
 https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7452d37b-268a-4c48-9b23-a74d2c4ff3fe.jpg" group-title="Exclusively Blues",Exclusively Jimi Hendrix
-https://streaming.exclusive.radio/er/hendrix/icecast.audio
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/66afd615-592a-462c-8b21-05918ad5e51d.jpg" group-title="Exclusively Blues",Exclusively Creedence Clearwater Revival
-https://streaming.exclusive.radio/er/creedence/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/51df863a-7149-49d8-abf5-fa4b447672a6.jpg" group-title="Exclusively Blues",Exclusively BB King
+https://streaming.exclusive.radio/er/bbking/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4b9e794d-70ce-484a-ae97-7627954c91d2.jpg" group-title="Exclusively Blues",Exclusively Bo Diddley
+https://streaming.exclusive.radio/er/bodiddley/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/91dd0386-5e93-412b-8d53-f41389785d31.jpg" group-title="Exclusively Blues",Exclusively Albert Collins
+https://streaming.exclusive.radio/er/albertcollins/icecast.audio
 #EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a8fddc52-b67a-4195-91bb-a1d1f7cd6978.jpg" group-title="Exclusively Blues",Exclusively Lynyrd Skynyrd
+https://streaming.exclusive.radio/er/pgfleetwood/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/febc6cdb-3923-452d-b417-ca51ee4d9f65.jpg" group-title="Exclusively Blues",Exclusively Van Morrison
+https://streaming.exclusive.radio/er/theyardbirds/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b6296cec-0312-4d79-bec8-afa4b5560fd8.jpg" group-title="Exclusively Blues",Exclusively Robert Cray
+https://streaming.exclusive.radio/er/vanmorrisonhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/89b7545c-2e75-4e7a-a265-029d934da2b5.png" group-title="Exclusively Blues",Exclusively Muddy Waters
+https://streaming.exclusive.radio/er/robertcray/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7e839a22-884a-4e45-a372-299c4f6bee11.jpg" group-title="Exclusively Blues",Exclusively Peter Green's Fleetwood Mac
+https://streaming.exclusive.radio/er/vanmorrison/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/eba1aa86-22ec-459f-90ce-9c11eba339fa.jpg" group-title="Exclusively Blues",Exclusively John Lee Hooker
 https://streaming.exclusive.radio/er/lynyrdskynyrd/icecast.audio
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e094b0d0-43ee-420a-ae44-f5c2d9eb51b4.jpg" group-title="Exclusively Blues",Exclusively ZZ Top
-https://streaming.exclusive.radio/er/zztop/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6d2bf6c5-9575-4035-b643-270552fd9470.jpg" group-title="Exclusively Blues",Exclusively Joe Bonamassa
+https://streaming.exclusive.radio/er/johnmayall/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e0de1513-79c1-4c1e-88f7-c5765f697221.jpg" group-title="Exclusively Blues",Exclusively Howlin Wolf
+https://streaming.exclusive.radio/er/joebonamassa/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/38e9316d-592d-4836-a90d-1488afd7bfe1.jpg" group-title="Exclusively Blues",Exclusively JJ Cale
+https://streaming.exclusive.radio/er/johnleehooker/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5cfed25b-b304-4849-9c08-49925acb6ccf.jpg" group-title="Exclusively Blues",Exclusively John Mayall
+https://streaming.exclusive.radio/er/muddywaters/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/97c0c026-1467-4872-bf0c-1980522fd56a.jpg" group-title="Exclusively Blues",Exclusively Eric Clapton
+https://streaming.exclusive.radio/er/ericclaptonhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/76bd1996-b36e-455a-9f18-712c8b34bb37.jpg" group-title="Exclusively Blues",Exclusively Derek Trucks & Susan Tedeschi
+https://streaming.exclusive.radio/er/ericclapton/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9c02bd0f-f4df-4451-b32c-b356c17c2bc6.jpg" group-title="Exclusively Blues",Exclusively Etta James
+https://streaming.exclusive.radio/er/jjcale/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4d6ff64a-1803-44b0-a108-fe198948a6dc.jpg" group-title="Exclusively Blues",Exclusively Eric Clapton - HITS
+https://streaming.exclusive.radio/er/howlinwolf/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Blues",Exclusively The biggest hits from Eric Clapton - HITS
+https://streaming.exclusive.radio/er/ettajames/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6ea84d2d-2bb6-4295-84d0-873188ff86af.jpg" group-title="Exclusively Blues",Exclusively Buddy Guy
+https://streaming.exclusive.radio/er/buddyguy/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e69d51dd-b79e-4c13-872a-45bab40864fd.jpg" group-title="Exclusively Blues",Exclusively Chuck Berry
+https://streaming.exclusive.radio/er/chuckberry/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9f4ec0d3-9dd6-4723-8555-a4b2256bb241.jpg" group-title="Exclusively Blues",Exclusively Cream
+https://streaming.exclusive.radio/er/derekandsusantrucks/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Blues",Exclusively The biggest hits from Chuck Berry - HITS
+https://streaming.exclusive.radio/er/chuckberryhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/d6073b92-26ff-44c9-8b51-4349292c57b1.jpg" group-title="Exclusively Blues",Exclusively Chuck Berry - HITS
+https://streaming.exclusive.radio/er/cream/icecast.audi
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4a259d43-af38-4a2a-af32-a04281d45676.jpg" group-title="Exclusively Bollywood",Exclusively Alka Yagnik
+https://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/24bd8943-0c87-4b7d-89c1-ef9cdbcdba54.jpg" group-title="Exclusively Bollywood",Exclusively Asees Kaur
+https://drive.uber.radio/uber/bollywoodaseeskaur/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/8c4f578f-2b12-415c-9f8a-998d006304ca.jpg" group-title="Exclusively Bollywood",Exclusively Amit Trivedi
+https://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/29d8abd5-1ed1-4f79-a0e0-868ce217e327.jpg" group-title="Exclusively Bollywood",Exclusively A.R. Rahman
+https://drive.uber.radio/uber/bollywoodarrahman/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/399872f5-d4a5-40f5-9cad-d6f1565aa4dc.jpg" group-title="Exclusively Bollywood",Exclusively Arijit Singh
+https://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6ac36cfb-8fcf-443b-92f1-dd39ba5e9949.jpg" group-title="Exclusively Bollywood",Exclusively Sunidhi Chauhan
+https://drive.uber.radio/uber/bollywoodsunidhichauhan/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a64372de-08e2-4c46-ba15-855644a56b08.jpg" group-title="Exclusively Bollywood",Exclusively Yo Yo Honey Singh
+https://drive.uber.radio/uber/bollywoodyoyohoneysingh/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/17d2a7fc-00ca-40c1-abc2-04077585bd8a.jpg" group-title="Exclusively Bollywood",Exclusively Udit Narayan
+http://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/739145a2-890c-4ee8-bd30-73a64f07ae4e.jpg" group-title="Exclusively Bollywood",Exclusively Sunanda Sharma
+https://drive.uber.radio/uber/bollywoodsunandasharma/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/97ef6c4e-8515-4ac3-8f29-5a35cdd914aa.jpg" group-title="Exclusively Bollywood",Exclusively Vishal & Shekhar
+https://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c0586715-d5e2-4d00-8854-f7376ca28f66.jpg" group-title="Exclusively Bollywood",Exclusively Pritam
+https://drive.uber.radio/uber/bollywoodpritam/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/53fcc25d-0da8-410c-9899-7e238f7e38f6.jpg" group-title="Exclusively Bollywood",Exclusively Shreya Ghoshal
+https://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5c93c780-f7b5-4201-8245-d5b3d4c0b0fc.jpg" group-title="Exclusively Bollywood",Exclusively Sidhu Moose Wala
+https://drive.uber.radio/uber/bollywoodsidhumoosewala/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/30a18c39-b997-4746-9860-7ef578047ac4.jpg" group-title="Exclusively Bollywood",Exclusively Shah Rukh Khan
+https://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1364679b-a969-4c0c-bb4c-ce643ed64b86.jpg" group-title="Exclusively Bollywood",Exclusively Sonu Nigam
+https://drive.uber.radio/uber/bollywoodsonunigam/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ee80c7f8-29d8-451a-8d9d-8c91654a12f5.jpg" group-title="Exclusively Bollywood",Exclusively Kishore Kumar
+https://drive.uber.radio/uber/bollywoodkishorekumar/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/244cf269-b67b-482a-a5ba-60021bf10a59.jpg" group-title="Exclusively Bollywood",Exclusively Lata Mangeshkar
+https://drive.uber.radio/uber/bollywoodlatamangeshkar/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/dc90ba9a-e8ff-46d3-b1e6-19c1a580b563.jpg" group-title="Exclusively Bollywood",Exclusively Millind Gaba
+https://drive.uber.radio/uber/bollywoodmillindgaba/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b061ae96-811e-4da4-ab9f-cd47d1082163.jpg" group-title="Exclusively Bollywood",Exclusively Jubin Nautiyal
+https://drive.uber.radio/uber/bollywoodjubinnautiyal/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6cf82e50-678d-4af2-8718-baafd949834b.jpg" group-title="Exclusively Bollywood",Exclusively Neha Kakkar
+https://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/27340c83-4f6a-4f56-b34f-6d28d7bd9eed.jpg" group-title="Exclusively Bollywood",Exclusively Badshah
+https://drive.uber.radio/uber/bollywoodbadshah/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/be76d204-2e32-4acb-97e8-9ccef18aaddd.jpg" group-title="Exclusively Bollywood",Exclusively Harrdy Sandhu
+https://drive.uber.radio/uber/bollywoodharrdysandhu/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/38d15cb4-6ced-4afe-a272-97c9a0712805.png" group-title="Exclusively Bollywood",Exclusively Dhavani Bhanushali
+https://drive.uber.radio/uber/bollywooddhavanibhanushali/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a6677405-5d97-4ac8-8d5c-88f4caa9c0eb.jpg" group-title="Exclusively Bollywood",Exclusively Darshan Raval
+https://drive.uber.radio/uber/bollywooddarshanraval/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9d7029c5-3741-46eb-a31b-110e5a7eaa52.jpg" group-title="Exclusively Bollywood",Exclusively Guru Randhawa
+https://drive.uber.radio/uber/bollywoodgururandhawa/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ba25166e-ace1-4a62-a16f-397bea83e222.jpg" group-title="Exclusively Bollywood",Exclusively Asha Bhosle
+https://drive.uber.radio/uber/bollywoodashabhosle/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1ab00024-5b20-4331-91b7-f487ae3318cd.jpg" group-title="Exclusively Bollywood",Exclusively Atif Aslam
+https://drive.uber.radio/uber/bollywoodatifaslam/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/31597e07-7717-4c58-a6d0-9ab75231ef2e.jpg" group-title="Exclusively Bollywood",Exclusively B Praak
+https://drive.uber.radio/uber/bollywoodbpraak/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/92227c1a-9244-4725-8827-33c4e5fc5525.jpg" group-title="Exclusively Bollywood",Exclusively Armaan Malik
+https://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a849f6da-317a-4e8c-955a-e1e5ec19ad51.jpg" group-title="Exclusively Chartbusters",Exclusively Ariana Grande
+https://streaming.exclusive.radio/er/arianagrandehits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/86018e54-87c6-411c-9d12-90554ae3133c.jpg" group-title="Exclusively Chartbusters",Exclusively Adele - HITS
+https://streaming.exclusive.radio/er/arianagrande/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ceeab1d1-a39a-4501-99b6-62b44aadf5f7.jpg" group-title="Exclusively Chartbusters",Exclusively Adam Lambert
+https://streaming.exclusive.radio/er/adamlambert/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f045db74-8996-498a-a3a9-c0c677ece874.jpg" group-title="Exclusively Chartbusters",Exclusively Adele
+https://streaming.exclusive.radio/er/adele/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Adele - HITS
+https://streaming.exclusive.radio/er/adelehits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fe6f14e9-4473-48db-baff-9d64646c46e6.jpg" group-title="Exclusively Chartbusters",Exclusively Lewis Capaldi
+https://streaming.exclusive.radio/er/niallhoran/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4e7b4b3b-6df3-4c21-b3b1-b862ead14c3f.jpg" group-title="Exclusively Chartbusters",Exclusively Little Mix - HITS
+https://streaming.exclusive.radio/er/oliviarodrigo/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0a1770ef-0ef3-40da-8ffe-e2adc6f7de6a.jpg" group-title="Exclusively Chartbusters",Exclusively Lana Del Rey
+https://streaming.exclusive.radio/er/mileycyrus/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b7415ea9-9e6e-4b5f-9902-a0bd602f643a.jpg" group-title="Exclusively Chartbusters",Exclusively Little Mix
+https://streaming.exclusive.radio/er/nickiminaj/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fc4248d5-b2d7-49cb-87b3-3509c666b9c9.jpg" group-title="Exclusively Chartbusters",Exclusively Lady Gaga - HITS
+https://streaming.exclusive.radio/er/michaelbublehits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a41e2864-8cf7-4265-9fef-12cb7a18d412.jpg" group-title="Exclusively Chartbusters",Exclusively Killers - HITS
+https://streaming.exclusive.radio/er/maroon5/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/09783d18-4d0e-4086-ada7-b237d4b72913.jpg" group-title="Exclusively Chartbusters",Exclusively Lady Gaga 
+https://streaming.exclusive.radio/er/meghantrainor/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/83b63fb4-5d51-44d0-9aac-cebba86325a5.jpg" group-title="Exclusively Chartbusters",Exclusively Killers
+https://streaming.exclusive.radio/er/lorde/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Lady Gaga - HITS
+https://streaming.exclusive.radio/er/michaelbuble/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Killers - HITS
+https://streaming.exclusive.radio/er/mabel/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6d69017a-d429-440a-b347-7e75eb6e384a.jpg" group-title="Exclusively Chartbusters",Exclusively Katy Perry 
+https://streaming.exclusive.radio/er/lewiscapaldi/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ef940972-a5f2-4963-9c90-ac9f6ab3de83.jpg" group-title="Exclusively Chartbusters",Exclusively Justin Timberlake - HITS
+https://streaming.exclusive.radio/er/lanadelrey/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Justin Timberlake - HITS
+https://streaming.exclusive.radio/er/ladygagahits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6f54ae7b-7c97-4dc0-aca5-6ff0fc588909.jpg" group-title="Exclusively Chartbusters",Exclusively Kendrick Lamar
+https://streaming.exclusive.radio/er/littlemixhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b03e9d1b-cde3-4b6e-bebe-fdc02dd7204a.jpg" group-title="Exclusively Chartbusters",Exclusively Kelly Clarkson
+https://streaming.exclusive.radio/er/littlemix/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9fa82194-6b1f-4339-97e9-a82647914a6b.jpg" group-title="Exclusively Chartbusters",Exclusively Justin Bieber - HITS
+https://streaming.exclusive.radio/er/killershits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Justin Bieber - HITS
+https://streaming.exclusive.radio/er/thekillers/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c445e2f9-c3ab-4f7f-b8a4-cd6e399ad684.jpg" group-title="Exclusively Chartbusters",Exclusively Justin Bieber 
+https://streaming.exclusive.radio/er/kendricklamar/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2eb28042-9b58-4016-b766-54c800535c63.jpg" group-title="Exclusively Chartbusters",Exclusively Jonas Brothers
+https://streaming.exclusive.radio/er/katyperry/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e49b9a55-3bb4-46f9-b3a9-8a01737253cc.jpg" group-title="Exclusively Chartbusters",Exclusively Justin Timberlake
+https://streaming.exclusive.radio/er/ladygaga/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2902c432-f37f-4e7f-8858-7ec5132caf41.jpg" group-title="Exclusively Chartbusters",Exclusively Juice WRLD
+https://streaming.exclusive.radio/er/kellyclarkson/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ae2fd75f-fd9a-4e22-8275-26f167986934.jpg" group-title="Exclusively Chartbusters",Exclusively Jason Derulo
+https://streaming.exclusive.radio/er/justintimberlake/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/00e7eec9-5dd7-4a4e-8446-fe4bf83362c8.jpg" group-title="Exclusively Chartbusters",Exclusively James Blunt
+https://streaming.exclusive.radio/er/justinbieberhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cfacbfc6-9a1c-4464-b3d7-2ab056e622de.jpg" group-title="Exclusively Chartbusters",Exclusively Jennifer Lopez 
+https://streaming.exclusive.radio/er/justintimberlakehits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/ab166ab6-3c28-4e2e-a29b-589561276f59.jpg" group-title="Exclusively Chartbusters",Exclusively James Arthur
+https://streaming.exclusive.radio/er/justinbieber/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a3120948-f08c-489e-9ad9-1588f13588c9.jpg" group-title="Exclusively Chartbusters",Exclusively Harry Styles
+https://streaming.exclusive.radio/er/juicewrld/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0c308858-45c4-4663-9ac3-4c16195d3e11.jpg" group-title="Exclusively Chartbusters",Exclusively Gregory Porter
+https://streaming.exclusive.radio/er/jenniferlopez/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/953f43ed-bbd5-4dc8-bfa8-d9c1691b4162.jpg" group-title="Exclusively Chartbusters",Exclusively George Ezra
+https://streaming.exclusive.radio/er/jasonderulo/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/089bd2b4-5b19-471c-820d-3fad91d9d9b0.jpg" group-title="Exclusively Chartbusters",Exclusively Halsey
+https://streaming.exclusive.radio/er/jonasbrothers/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0f22bf25-7d9b-4a82-9f6c-edc9ec2dda0b.jpg" group-title="Exclusively Chartbusters",Exclusively Freya Ridings
+https://streaming.exclusive.radio/er/jamesblunt/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f005aca3-c19b-45cc-a3de-f0fa7acde2e2.jpg" group-title="Exclusively Chartbusters",Exclusively Enrique Iglesias
+https://streaming.exclusive.radio/er/jamesarthur/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/41745a11-bbfd-4785-b745-f627271b3d81.jpg" group-title="Exclusively Chartbusters",Exclusively Ed Sheeran
+https://streaming.exclusive.radio/er/georgeezra/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/384051d5-93c6-4dc3-b80b-bdbd4a90159b.jpg" group-title="Exclusively Chartbusters",Exclusively Ed Sheeran - HITS
+https://streaming.exclusive.radio/er/halsey/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/470b461d-3f8f-4db8-8b7a-27b05afcbd08.jpg" group-title="Exclusively Chartbusters",Exclusively Ellie Goulding
+https://streaming.exclusive.radio/er/harrystyles/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Ed Sheeran - HITS
+https://streaming.exclusive.radio/er/gregoryporter/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/4a825a1e-2897-4f0d-b3d0-110e8309a88e.jpg" group-title="Exclusively Chartbusters",Exclusively Doja Cat
+https://streaming.exclusive.radio/er/edsheeran/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fea8173f-a85c-4052-8ee4-ca03a71e094d.jpg" group-title="Exclusively Chartbusters",Exclusively Dua Lipa
+https://streaming.exclusive.radio/er/freyaridings/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b8795332-1f34-4f81-98ab-dffb7508cb96.jpg" group-title="Exclusively Chartbusters",Exclusively Drake - HITS
+https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Chartbusters",Exclusively The biggest hits from Drake - HITS
+https://streaming.exclusive.radio/er/elliegoulding/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e83ef8f4-3659-40c1-8150-ac8abdfeff71.jpg" group-title="Exclusively Chartbusters",Exclusively Drake
+https://streaming.exclusive.radio/er/edsheeranhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/241120c1-db85-4df8-b0a0-c4d7da6d0914.jpg" group-title="Exclusively Chartbusters",Exclusively Charlie Puth
+https://streaming.exclusive.radio/er/dojacat/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fb57bf94-3476-4871-be76-8252750925df.jpg" group-title="Exclusively Chartbusters",Exclusively Demi Lovato
+https://streaming.exclusive.radio/er/dualipa/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2d54a231-f3bd-4416-bcc3-c8dc6f6bd281.jpg" group-title="Exclusively Chartbusters",Exclusively Charli XCX
+https://streaming.exclusive.radio/er/demilovato/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e4bce8fe-6b7f-45bb-a7a8-287ca0c90fbc.jpg" group-title="Exclusively Chartbusters",Exclusively Christina Aguilera 
+https://streaming.exclusive.radio/er/drake/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a7b2c869-4670-42de-bda0-6d60505da2e0.jpg" group-title="Exclusively Chartbusters",Exclusively Daft Punk
+https://streaming.exclusive.radio/er/drakehits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/627a0028-940e-4769-86f4-59007fe99780.jpg" group-title="Exclusively Chartbusters",Exclusively Calvin Harris
+https://streaming.exclusive.radio/er/charlieputh/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/973fcef6-d7f2-4f07-ab1e-53c7c75674eb.jpg" group-title="Exclusively Chartbusters",Exclusively Burna Boy
+https://streaming.exclusive.radio/er/charlixcx/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/04a9610a-5bca-4999-ba73-ab03cd6ebdf6.png" group-title="Exclusively Chartbusters",Exclusively BTS
+https://streaming.exclusive.radio/er/cardib/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/8449a6a3-a1c2-4b7b-b7f3-6fd4b2e35f64.jpg" group-title="Exclusively Chartbusters",Exclusively Cardi B
+https://streaming.exclusive.radio/er/daftpunk/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9ba8dd4a-9d7c-498c-b6bf-5b7d0ec5704d.jpg" group-title="Exclusively Chartbusters",Exclusively Camila Cabello
+https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1336b322-9297-4fc0-ac70-3020efee134c.jpg" group-title="Exclusively Country",Exclusively Dolly Parton
+https://streaming.exclusive.radio/er/dollyparton/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f302678a-d682-4c81-a0c6-6a7595e3ef35.jpg" group-title="Exclusively Country",Exclusively Dolly Parton - HITS
+https://streaming.exclusive.radio/er/georgejones/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/99013535-9f6b-4bb4-8685-3eca022bab3a.jpg" group-title="Exclusively Country",Exclusively Alabama
+https://streaming.exclusive.radio/er/alabama/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0498fa82-31b3-494b-9294-fca4d953b608.jpg" group-title="Exclusively Country",Exclusively Charley Pride
+https://streaming.exclusive.radio/er/charleypride/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Country",Exclusively The biggest hits from Dolly Parton - HITS
+https://streaming.exclusive.radio/er/dollypartonhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/b7689ea3-feb9-46fc-8916-10c6acbf1d3c.jpg" group-title="Exclusively Country",Exclusively Loretta Lynn
+https://streaming.exclusive.radio/er/tammywynette/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3e980da0-5331-49fe-b18b-888a8f8605e5.jpg" group-title="Exclusively Country",Exclusively Merle Haggard
+https://streaming.exclusive.radio/er/waylonjennings/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/5168594f-51c0-4538-a897-05ab9ef81e64.jpg" group-title="Exclusively Country",Exclusively Patsy Cline
+https://streaming.exclusive.radio/er/willienelson/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7a1f13f7-e063-4370-a022-a44867e48517.jpg" group-title="Exclusively Country",Exclusively Kenny Rogers - HITS
+https://streaming.exclusive.radio/er/rebamcentire/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/63864657-2197-406e-a37f-952302f4fd4d.jpg" group-title="Exclusively Country",Exclusively Randy Travis
+https://streaming.exclusive.radio/er/willienelsonhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/72e949a8-be67-416b-a954-1ff9023bed39.jpg" group-title="Exclusively Country",Exclusively Johnny Cash
+https://streaming.exclusive.radio/er/kennyrogershits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3d0fe910-bd46-4816-b806-c903e82daecc.jpg" group-title="Exclusively Country",Exclusively Johnny Cash - HITS
+https://streaming.exclusive.radio/er/merlehaggard/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Country",Exclusively The biggest hits from Johnny Cash - HITS
+https://streaming.exclusive.radio/er/lorettalynn/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Country",Exclusively The biggest hits from Kenny Rogers - HITS
+https://streaming.exclusive.radio/er/randytravis/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/361b7593-df5f-4a32-80c8-1b01c225096a.jpg" group-title="Exclusively Country",Exclusively Kenny Rogers
+https://streaming.exclusive.radio/er/patsycline/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7e371437-62e6-43ab-9a95-4c13bacab011.jpg" group-title="Exclusively Country",Exclusively Jim Reeves
+https://streaming.exclusive.radio/er/johndenverhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Country",Exclusively The biggest hits from John Denver - HITS
+https://streaming.exclusive.radio/er/johnnycashhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/66977453-b1da-4653-a3a2-20d84363a032.jpg" group-title="Exclusively Country",Exclusively John Denver - HITS
+https://streaming.exclusive.radio/er/kennyrogers/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/9a5140c3-1450-4c07-b6da-72bd11525085.jpg" group-title="Exclusively Country",Exclusively John Denver
+https://streaming.exclusive.radio/er/johnnycash/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/7ca9a32c-0424-4a5e-af58-148f72d41dbe.jpg" group-title="Exclusively Country",Exclusively Jerry Lee Lewis
+https://streaming.exclusive.radio/er/johndenver/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/80a9da50-8cc9-41b4-b566-5328f94f77b7.jpg" group-title="Exclusively Country",Exclusively Glen Campbell
+https://streaming.exclusive.radio/er/glencampbellhits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f5c52af6-c608-4336-9fdb-7f1fed445e8d.jpg" group-title="Exclusively Country",Exclusively Glen Campbell - HITS
+https://streaming.exclusive.radio/er/jerryleelewis/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/fa06e3de-8d13-424e-88f3-8a0c2197cb6d.jpg" group-title="Exclusively Country",Exclusively Hank Williams
+https://streaming.exclusive.radio/er/jimreeves/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cce42fa8-816f-4727-b108-43642c6f081e.jpg" group-title="Exclusively Country",Exclusively George Strait
+https://streaming.exclusive.radio/er/glencampbell/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="/static/assets/img/only_hits.png" group-title="Exclusively Country",Exclusively The biggest hits from Glen Campbell - HITS
+https://streaming.exclusive.radio/er/hankwilliams/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/00fef298-0537-4322-b74c-f2ef216cecfe.jpg" group-title="Exclusively Country",Exclusively George Jones
+https://streaming.exclusive.radio/er/georgestrait/icecast.audio
 
