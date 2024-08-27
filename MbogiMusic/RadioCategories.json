@@ -2,25 +2,25 @@
     {
         "title": "Exclusive Radio",
         "author": "MbogiMusic",
-        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/exclusiveRadio.m3u",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/master.m3u",
         "imageUrl": "https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png"
     },
     {
         "title": "90s90s Radio",
         "author": "MbogiMusic",
-        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/90s90s.m3u",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/master.m3u",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/90s90s_Logo_2017.svg/1200px-90s90s_Logo_2017.svg.png"
     },
     {
         "title": "TickTock Radio",
         "author": "MbogiMusic",
-        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/TickTok.m3u",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/master.m3u",
         "imageUrl": "https://manager.uber.radio/static/uploads/brand/423727cb-ab69-4053-8c9e-725f0da5d7f2.png"
     },
     {
         "title": "laut.fm Radio",
         "author": "MbogiMusic",
-        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/lautfm.m3u",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/master.m3u",
         "imageUrl": "https://play-lh.googleusercontent.com/UtDCEiB21rKaprjEFvQcysKOtzQ71XSrmME0avBiXRK8EvIEK4TS-tMy-NSmFSdt1cc=w480-h960"
     }
 ]
