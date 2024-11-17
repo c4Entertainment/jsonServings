@@ -1,5 +1,11 @@
 [
     {
+        "title": "Top Picks",
+        "author": "MbogiMusic",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/TVM3U/top_picks.m3u",
+        "imageUrl": "https://avatars.githubusercontent.com/u/55937028?s=200&v=4"
+    },
+    {
         "title": "Animation",
         "author": "MbogiMusic",
         "feedUrl": "https://iptv-org.github.io/iptv/categories/animation.m3u",
