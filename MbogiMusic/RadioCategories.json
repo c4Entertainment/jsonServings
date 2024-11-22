@@ -6,6 +6,13 @@
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/1200px-Wikipedia-logo-v2.svg.png"
     },
     {
+        "title": "100 fm",
+        "author": "MbogiMusic",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/100fm.m3u",
+        "imageUrl": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/digital100-e1607596035451.png"
+    },
+
+    {
         "title": "Exclusive Radio",
         "author": "MbogiMusic",
         "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/exclusiveRadio.m3u",
