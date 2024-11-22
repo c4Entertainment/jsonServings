@@ -1,5 +1,11 @@
 [
     {
+        "title": "WorldWide",
+        "author": "MbogiMusic",
+        "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/WorldWide.m3u",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Unisphere-cc.jpg"
+    },
+    {
         "title": "Exclusive Radio",
         "author": "MbogiMusic",
         "feedUrl": "https://github.com/c4Entertainment/jsonServings/raw/master/MbogiMusic/RadioM3U/exclusiveRadio.m3u",
