@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="2667" tvg-logo="https://item.radio456.com/007452/330159/logo-89112.png" group-title="Variety" feed-title="Kids Radio",Kids Radio laut.fm
+http://kids-radio.stream.laut.fm/kids-radio?
+#EXTINF:-1,tvg-country="Netherlands" tvg-popularity="176" tvg-logo="https://item.radio456.com/007452/330159/logo-87820.png" group-title="Variety" feed-title="Kids Radio",Efteling Kids Radio
+http://ice.cr1.streamzilla.xlcdn.com:8000/sz=efteling=hdstream
+#EXTINF:-1,tvg-country="Serbia" tvg-popularity="31" tvg-logo="https://item.radio456.com/007452/330159/logo-47114.png" group-title="Variety" feed-title="Kids Radio",Naxi Kids Radio
+http://naxidigital128.kbcnet.rs:8050/stream
+#EXTINF:-1,tvg-country="United Kingdom" tvg-popularity="1856" tvg-logo="https://item.radio456.com/007452/330159/logo-88004.png" group-title="Variety" feed-title="Kids Radio",QMR Kids Radio
+http://qmr.hopto.org:7044/stream
+#EXTINF:-1,tvg-country="Australia" tvg-popularity="448" tvg-logo="https://item.radio456.com/007452/330159/logo-51713.png" group-title="Variety" feed-title="Kids Radio",Funky Kids Radio
+http://ice6.securenetsystems.net/FKRADIO
+#EXTINF:-1,tvg-country="Michigan" tvg-popularity="2144" tvg-logo="https://item.radio456.com/007452/330159/logo-4139.png" group-title="Religious" feed-title="Kids Radio",Keys for Kids Radio
+http://kfkr.sslstream.com:8000/kfkr.mp3
+#EXTINF:-1,tvg-country="California" tvg-popularity="12367" tvg-logo="https://item.radio456.com/007452/330159/logo-99573.png" group-title="Variety" feed-title="Kids Radio",Earth Kids Radio
+http://streaming.live365.com/a35701
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio  Dance Party
+https://drive.uber.radio/uber-app/forkidzdanceparty/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Bathtime Fun
+https://drive.uber.radio/uber-app/forkidzbathtimefun/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Bedtime Stories
+https://drive.uber.radio/uber-app/forkidzbedtimestories/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Calm
+https://drive.uber.radio/uber-app/forkidzcalm/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Classical
+https://drive.uber.radio/uber-app/forkidzclassical/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Kidz Bop
+https://drive.uber.radio/uber-app/forkidzkidzbop/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Lullabys
+https://drive.uber.radio/uber-app/forkidzlullabys/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Movie Soundtracks
+https://drive.uber.radio/uber-app/forkidzmoviesoundtracks/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Nursery Rhymes
+https://drive.uber.radio/uber-app/forkidznurseryrhymes/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Pinkfong
+https://drive.uber.radio/uber-app/forkidzpinkfong/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Pop Hits
+https://drive.uber.radio/uber-app/forkidzpophits/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Sleep Kids
+https://drive.uber.radio/uber-app/forkidzsleep/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Toddler Tunes
+https://drive.uber.radio/uber-app/forkidztoddlertunes/icecast.audio
+#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://you.radio/wp-content/uploads/2022/05/For-Kids-Logo-amend-300x300-1.png" group-title="For Kids" feed-title="Kids Radio",Kids Radio Wake & Shake
+https://drive.uber.radio/uber-app/forkidzwakeandshake/icecast.audio
+
