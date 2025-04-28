@@ -1445,8 +1445,6 @@ https://streaming.exclusive.radio/er-app/rocknrollparty/icecast.audio
 https://streaming.exclusive.radio/er-app/direstraits/icecast.audio
 #EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4a84b135-e388-4be8-a79b-5941ed42cb74.jpg" group-title="Exclusively Trending" feed-title="Exclusive Radio",Exclusively The Beatles
 https://streaming.exclusive.radio/er-app/beatles/icecast.audio
-#EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8e785b0e-34a3-406e-b8ce-0dabe15e13e3.jpg" group-title="Exclusively Triple Mix" feed-title="Exclusive Radio",Exclusively Simon & Garfunkel, America & John Denver
-https://streaming.exclusive.radio/er-app/mix9/icecast.audio
 #EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/39fa3688-d0ee-48d9-b156-44fe14d782e8.jpg" group-title="Exclusively Triple Mix" feed-title="Exclusive Radio",Exclusively CSNY, Eagles & Jackson Browne
 https://streaming.exclusive.radio/er-app/westcoast/icecast.audio
 #EXTINF:-1,tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0769a8c8-2ef3-4c3a-bbcd-427d7e5abac9.jpg" group-title="Exclusively Triple Mix" feed-title="Exclusive Radio",Exclusively The Police, The Human League & Duran Duran
