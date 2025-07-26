@@ -1,394 +1,393 @@
-
+#EXTM3U
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews
-
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",AfricaNews Français (720p)
-
+https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="Kids",All The K-POP (1080p) [Not 24/7]
-
+https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Anger Management
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8bdaa25d5e00081e1e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c23-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecb53ccf-2d45-4edb-949e-540d922e0d69
 #EXTINF:-1 tvg-id="AngerManagement.at" tvg-logo="" group-title="Comedy",Anger Management
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591&serverSideAds=false
 #EXTINF:-1 tvg-id="AngerManagement.ch" tvg-logo="" group-title="Comedy",Anger Management
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc82bb01-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0d45557-5906-44bd-8ce4-e4b11da8073c&serverSideAds=false
 #EXTINF:-1 tvg-id="AngerManagement.de" tvg-logo="" group-title="Comedy",Anger Management
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac0873-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ba8090e5-75c3-49e1-b27f-57399848d7ed&serverSideAds=false
 #EXTINF:-1 tvg-id="AngerManagementChannel.us" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Comedy",Anger Management Channel (720p)
-
+https://lnc-anger-management2.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Anger Management en Espanol (1080p)
-
+https://lnc-anger-management-espanol2.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-logo="https://i.imgur.com/kkm7VqV.png" group-title="Reality TV",Antiques Road Trip
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/615b8ec39e878900073f419a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db6c1565-8df4-4092-a404-9e5aee5bb6ae
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Are We There Yet?
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8b9328730900087c5324/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd1975a1-4578-4dba-893b-1a552eb054bc
 #EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Comedy",Are we there Yet? [Geo-blocked]
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Arthur
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6482f27c17f5e10008c10ff0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794330-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=708b1b6d-b68b-435b-a9fc-551cbc3b51ea
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Ax Men
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fe4bbdf3cf0008aa2cdd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794331-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=334b8ad2-5361-4ae2-a1fd-41fb46bc4c2d
 #EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Kids",Baby Shark TV
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 #EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Kids",Battery Pop (XUMO) (720p)
-
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Biz Talk Today TV (1080p)
-
+https://d3htp73xsa9p15.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-BizTalk/445.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="News" user-agent="ExoPlayer2/2.37",Bloomberg
-
-
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 #EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="News",Bloomberg TV+
-
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Bounty
-
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-logo="https://i.imgur.com/Kkcp9Bk.png" group-title="Talk show & Entertainment",Brat TV (1080p)
-
+https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonPopular.co" tvg-logo="https://i.imgur.com/xfqiMUw.jpeg" group-title="Kids",CNC Pasto Son Popular (720p) [Geo-blocked]
-
+https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNN HEADLINES
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280714-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=094d5321-1bd1-4a68-84aa-0a3f4fef2e25
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Congo Planet Télévision Pop (1080p) [Not 24/7]
-
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",COPS
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Deal or no Deal
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
 #EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Reality TV",Deal or No Deal
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c44-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e0ea473-5558-49ab-b31c-6b1180531eab
 #EXTINF:-1 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="ETC",Dhamma TV (720p) [Not 24/7]
-
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Dog The Bounty Hunter
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fee72cf13100085d5a18/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0686-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a785777c-53e9-4fa5-bf8d-22125f05159a
 #EXTINF:-1 tvg-id="DogtheBountyHunter.us" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Reality TV",Dog the Bounty Hunter
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c47-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca19e89b-4eb2-4f32-b300-8e26501d6dd2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Duck Dynasty
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fe6fbfbaec0008a583ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d90-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2414064-7363-4d88-b917-86f379a71ce9
 #EXTINF:-1 tvg-id="DuckDynasty.uk" tvg-logo="https://i.imgur.com/vMcSlwm.png" group-title="Reality TV",Duck Dynasty (1080p)
-
+https://lnc-duck-dynasty.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Dynasty
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e919ca865c590007ecd0bd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a106f440-441b-42eb-86b4-d732ef6f814e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Dynasty
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1606b4c5ed80008e3b8b9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a350-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c4fb05d1-b382-4722-a7d5-66fbce6da394
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ETC",EarthDay 365
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/650b69cfd1f20c0008586bac/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a351-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d5f340-8533-449d-baf7-62a01ce5a66d
 #EXTINF:-1 tvg-id="ENTV.sa" tvg-logo="https://i.imgur.com/KnKTjev.png" group-title="Kids",EN TV
-
+http://82.212.74.100:8000/live/8130.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",ET
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a356-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ac04a8b1-db8e-4c72-806c-5f1d1413c614
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Euronews
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d35bcaf1ff4a00078af0a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90bc590c-c00a-4ff4-b9e2-ad20ea686992
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Euronews
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492dcf1c9b6a00089f41df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28a357-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa72d986-0119-4efe-aab7-e87e09aafd24
 #EXTINF:-1 tvg-id="Euronews.at" tvg-logo="" group-title="News",Euronews
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d8ac5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c0d21e0b-3cc9-4c67-81b6-e33e50a7d888&serverSideAds=false
 #EXTINF:-1 tvg-id="Euronews.ch" tvg-logo="" group-title="News",Euronews
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f381-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2a6fb319-bbbb-4ced-9cfb-de66da2dec34&serverSideAds=false
 #EXTINF:-1 tvg-id="Euronews.de" tvg-logo="" group-title="News",Euronews
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f3-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3e4b88ec-5984-4688-a30a-030ab8602e7c&serverSideAds=false
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews
-
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",FailArmy
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb5500c21270007218ce1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d92-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ecaff509-d568-42e3-8ce7-0595119efeac
 #EXTINF:-1 tvg-id="FailArmy.at" tvg-logo="" group-title="Comedy",FailArmy
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1db1d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc69234c-f1b7-4cf1-9e56-55b23f754867&serverSideAds=false
 #EXTINF:-1 tvg-id="FailArmy.ch" tvg-logo="" group-title="Comedy",FailArmy
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f383-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43eea2e5-9a8a-4b05-b706-902835924ae6&serverSideAds=false
 #EXTINF:-1 tvg-id="FailArmy.de" tvg-logo="https://i.imgur.com/kR57oeh.png" group-title="Comedy",FailArmy
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7ffe738977e2c312133/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2b899ff-8adb-43d9-a336-9962f9aeca84&serverSideAds=false
 #EXTINF:-1 tvg-id="FailArmy.fr" tvg-logo="https://i.imgur.com/CoDZXtv.png" group-title="Comedy",FailArmy
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd9169d2d4000864a974/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a61-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9b7a96a5-bbde-4e9f-8dd8-997f6a97611f
 #EXTINF:-1 tvg-id="FailArmy.it" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Comedy",Failarmy
-
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy",FailArmy
-
+https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Kids",Fanpop TV
-
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVCzechSlovak.fr" tvg-logo="https://i.imgur.com/7Bigo7u.png" group-title="Hobby/Leisure",FashionTV Czech&Slovak (450p) [Not 24/7]
-
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Fear Factor
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63482674df87730007656044/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f3a5677-9ed1-44d1-9702-c2039e7bf0d1
 #EXTINF:-1 tvg-id="FearFactor.us" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Reality TV",Fear Factor
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca62-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e31f1ad3-d53a-4c8d-9e63-079c41a20d98
 #EXTINF:-1 tvg-id="FilmRiseFreeMovies.us" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies",FilmRise Free Movies (Redbox) (720p)
-
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",FilmRise Hot Ones (720p)
-
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
 #EXTINF:-1 tvg-id="FUELTV.at" tvg-logo="https://i.imgur.com/I8mviBy.png" group-title="Sport",FUEL TV (1080p)
-
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" group-title="News",GB News
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Ghost Hunters
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65cf8ace332fec00081e7ea2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=733471ce-0ac1-447e-9326-012361ee2487
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Ghost Hunters
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",GLORY Kickboxing
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sport",Glory Kickboxing (720p)
-
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Gordon Ramsay's Hell's Kitchen
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea45010d0611000839868c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3a17d6f-f38c-4a08-9e69-00d8a53906ec
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="Talk show & Entertainment",Gordon Ramsay's Hell's Kitchen
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291882-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c7ee55eb-3425-4f5e-a567-3a1ed6ca44ec
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hobby/Leisure",Great British Menu (720p)
-
+https://lnc-great-british-menu.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="" group-title="Hobby/Leisure",Gusto TV
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="HauntTV.us" tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="Talk show & Entertainment",Haunt TV
-
+https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Haunt TV Canada (1080p)
-
+https://lnc-haunttv-canada.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="HellsKitchen.at" tvg-logo="" group-title="Talk show & Entertainment",Hell's Kitchen
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dfff3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b7e432f-2d49-4cd8-8764-94e38b421dbb&serverSideAds=false
 #EXTINF:-1 tvg-id="HellsKitchen.ch" tvg-logo="" group-title="Talk show & Entertainment",Hell's Kitchen
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a96-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b4a95905-1fd2-4306-89f3-3df555a631d3&serverSideAds=false
 #EXTINF:-1 tvg-id="HellsKitchen.de" tvg-logo="" group-title="Talk show & Entertainment",Hell's Kitchen
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/644257fe7cb4b100081ed874/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f10-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02a68eb1-ac6e-4f61-b4fb-4c740e614b6b&serverSideAds=false
 #EXTINF:-1 tvg-id="HellsKitchenenespanol.us" tvg-logo="https://i.imgur.com/upj8u1c.png" group-title="Talk show & Entertainment",Hell's Kitchen en español
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",History
-
+http://170.254.18.106/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Homeful
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92967cd663f0007e604fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e465781-895f-4709-824c-bed19afe2c34
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Hot Ones
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a803b607e03a0008925118/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9cb9db4b-c3cb-4647-99d6-9ecd974431a8
 #EXTINF:-1 tvg-id="HotOnes.at" tvg-logo="" group-title="Movies",Hot Ones
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3839d5ac400080d14ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1dfff4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4026554-ef22-4c86-818d-18371f9458ea&serverSideAds=false
 #EXTINF:-1 tvg-id="HotOnes.ch" tvg-logo="" group-title="Movies",Hot Ones
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3839d5ac400080d14ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc841a97-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f32037b1-bd49-4906-b9ee-f9af269b3763&serverSideAds=false
 #EXTINF:-1 tvg-id="HotOnes.de" tvg-logo="" group-title="Movies",Hot Ones
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca3839d5ac400080d14ec/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad8f11-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=66cda8eb-183c-40ce-a92d-ae42b4ae5ea2&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Ice Road Truckers (1080p)
-
+https://lnc-ice-road-truckers.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-logo="https://i.imgur.com/7kOhGef.png" group-title="Talk show & Entertainment",InWonder
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwondernz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ETC",ION
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f9a-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7cc513a-0132-4e4f-85f1-bb3cb90423fd
 #EXTINF:-1 tvg-id="IONTVEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="ETC",ION
-
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="KayoPops.jp" tvg-logo="https://i.imgur.com/7VcFGkx.png" group-title="Kids",Kayo Pops (544p)
-
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
 #EXTINF:-1 tvg-id="KpopTVPlay.br" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Kids",KpopTV Play
-
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Kids",KRAL Pop TV (720p)
-
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaPopularTV.cl" tvg-logo="https://i.imgur.com/AWdgMCC.png" group-title="Kids",La Popular TV (720p)
-
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Le Meilleur d'Arthur
-
+https://amg02393-awpg-amg02393c2-rakuten-uk-2464.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdarthur-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Lifetime
-
+http://170.254.18.106/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Love Pets
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65265dada6c3830008942a0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8de1032a-71e8-4216-8110-72f35187d9fa
 #EXTINF:-1 tvg-id="MasTalk.ve" tvg-logo="https://i.imgur.com/unE2LGz.jpg" group-title="News",Más Talk (1080p)
-
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Million Dollar Listing Vault
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549322e53fc97000838febc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b47320-1d00-4b39-95eb-9deee99d170e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Modern Marvels
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540ff2d770cf1000866b90a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b3230b6-e0bb-4431-bee9-87f6c6f5b2d2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Modern Marvels Presented by HISTORY
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775d29dfed030008cb3db2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ed6ccc7-6463-4bcb-ac69-b4dfa479016d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ETC",Motorvision
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb0-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b8d137b0-1aae-46e0-9340-0eb38de9935b
 #EXTINF:-1 tvg-id="Motorvision.at" tvg-logo="" group-title="ETC",Motorvision
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2&serverSideAds=false
 #EXTINF:-1 tvg-id="Motorvision.ch" tvg-logo="" group-title="ETC",Motorvision
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc8468b7-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf722545-5931-4aa2-b6d3-67ada3963ab1&serverSideAds=false
 #EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="ETC",Motorvision
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84addd30-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=456ff785-b712-4c67-a20f-5327add4053e&serverSideAds=false
 #EXTINF:-1 tvg-id="MovieSphere.us" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Movies",MovieSphere (1080p)
-
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MovieSphere by Lionsgate
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a3d96f060e830008af6745/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=41f0c8e5-55e6-4740-a854-15ac608b8c65
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MovieSphere by Lionsgate
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ee42393-c7a0-4d1d-82c7-0121c35ec03e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",MovieSphere Canada (1080p)
-
+https://lnc-moviesphere-canada2.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",MTV Biggest Pop
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65410176770cf1000866bf31/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bcf56774-6379-4d92-a0d3-c5c517f6e994
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Kids",MTV Biggest Pop
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 #EXTINF:-1 tvg-id="POPSTAR.rs" tvg-logo="https://i.imgur.com/E9ha9Or.png" group-title="Kids",Muzzik POP STAR (720p)
-
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 #EXTINF:-1 tvg-id="NETALKOLETV.ht" tvg-logo="https://i.imgur.com/SdVrpzY.png" group-title="News",NETALKOLE TV (720p) [Not 24/7]
-
+https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="One.mt" tvg-logo="https://i.imgur.com/UPlfzFx.png" group-title="Comedy",One
-
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PelisyPopcorn.us" tvg-logo="https://i.imgur.com/jP19sGt.png" group-title="Kids",Pelis y Popcorn
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb2f47c133270007327375/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f7b47b7-a2d8-4c61-847a-02818046001b
 #EXTINF:-1 tvg-id="PeopleAreAwesome.us" tvg-logo="https://i.imgur.com/MsIx7Ax.png" group-title="Talk show & Entertainment",People are Awesome
-
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Comedy",Pet Collective
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92b5fca869f00078f0162/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6617-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b4fceb2-10ba-4e0e-b055-2002afd89dc2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",PFL MMA
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a620d53fc9700083b2e21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f8fcc86-3a94-4ce2-9955-c103e94fd2b9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",PFL MMA
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",PGA TOUR
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1 tvg-id="PGATour.us" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="Sport",PGA Tour (720p)
-
+https://lnc-pga3.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Pluto TV K-Pop
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c8b57beef158000787ac19/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce63d982-1282-42b7-a025-1ac79fadce36
 #EXTINF:-1 tvg-id="PopMax.uk" tvg-logo="https://i.imgur.com/Z7XTTod.png" group-title="Kids",POP Max (576p)
-
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="PopPataka.in" tvg-logo="https://i.imgur.com/9NacSLW.png" group-title="Kids",Pop Pataka (480p) [Not 24/7]
-
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",POP Television (720p)
-
+https://stream1.aswifi.it/poptelevision/live/index.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Kids",POP World TV (720p)
-
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-id="PopstarTV.us" tvg-logo="https://i.imgur.com/d4xEiXX.png" group-title="Kids",Popstar! TV (1080p)
-
+https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVCantabria.es" tvg-logo="https://i.imgur.com/amgBFmH.png" group-title="Kids",Popular TV Cantabria (576p) [Not 24/7]
-
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="Kids",Popular TV Melilla (1080p) [Not 24/7]
-
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="PopularTVMurcia.es" tvg-logo="https://i.imgur.com/jFg9dGO.png" group-title="Kids",Popular TV Murcia (1080p) [Not 24/7]
-
-
+#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-id="QwestTVMix.fr" tvg-logo="https://i.imgur.com/lO22nwk.png" group-title="Music",Qwest TV Mix (720p) [Geo-blocked]
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Real Crime
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.us" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="Talk show & Entertainment",Real Wild
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" group-title="Sport",Red Bull TV (1080p)
-
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Robot Wars by MECH+
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ff1ce298020f000849ff20/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072634-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65a59c6b-2c76-49f3-97a2-43e9a41020c6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Smash Talk [Geo-blocked]
-
+http://80.79.6.221:25461/smash/public/15
 #EXTINF:-1 tvg-id="SoReal.us" tvg-logo="https://i.imgur.com/wZ2uj9d.png" group-title="Reality TV",So...Real
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" group-title="Sport",SportsGrid (1080p)
-
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",StarTalk TV
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65775a88b3801200084a39ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cd6592b8-5304-4442-bf9d-cc398c532be8
 #EXTINF:-1 tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Kids",Stingray Pop Adult (1080p)
-
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Kids",Stingray Today's K-Pop
-
+https://jmp2.uk/SamsungTVPlus/USBD3500016NH.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png" group-title="Kids",Stingray Today's Latin Pop
-
+https://jmp2.uk/SamsungTVPlus/USBD3500009Y3.m3u8
 #EXTINF:-1 tvg-id="Strongman.at" tvg-logo="" group-title="Sport",Strongman
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b210d36-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a45c300a-b53b-4594-bf5f-64b95aceeedf&serverSideAds=false
 #EXTINF:-1 tvg-id="Strongman.ch" tvg-logo="" group-title="Sport",Strongman
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc866485-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e46a1a2-0bdd-49f7-affa-d810b71c1dcb&serverSideAds=false
 #EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="Sport",Strongman
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1452156c07b50009d0230e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c0be139f-be68-4d55-940e-e5aae0d99e04&serverSideAds=false
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Strongman Champions League
-
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperPop.it" tvg-logo="https://i.imgur.com/2FfREQE.png" group-title="Kids",Super! Pop Italy (720p)
-
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Talkin Live Classics TV (480p)
-
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-logo="https://i.imgur.com/KxHWpQB.png" group-title="News",TalkTV (1080p)
-
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-logo="https://i.imgur.com/J9iWjWL.png" group-title="Kids",Teletubbies
-
+https://dhx-teletubbies-2-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="Sport",Tennis Channel
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",The Biggest Loser (1080p)
-
+https://lnc-biggest-loser.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="https://i.imgur.com/o9AYq9V.png" group-title="News",The Guardian
-
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="https://i.imgur.com/F4hEPMK.png" group-title="Comedy",The Pet Collective
-
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.fr" tvg-logo="https://i.imgur.com/bcspFAU.png" group-title="Comedy",The Pet Collective
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecd336d64c9000754cdf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a60-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ad13452-4038-4ee5-9d1d-60ffd7bdf4ed
 #EXTINF:-1 tvg-id="ThePetCollective.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Comedy",The Pet Collective
-
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.it" tvg-logo="https://i.imgur.com/MU21Zva.png" group-title="Comedy",The Pet Collective
-
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="Comedy",The Pet Collective
-
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.se" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Comedy",The Pet Collective Sweden
-
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",The Wiggles Classic
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66422cf294d5580008c41bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7783-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=edce0849-5729-49a3-a50b-87cb0ae3f908
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hobby/Leisure",Tiny House Nation
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540ff4f7312a40008297b59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7787-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b64828a6-e38b-42b5-a91a-566c504d921c
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="Hobby/Leisure",Tiny House Nation
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/601a0342dcf4370007566891/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a0ef5b5-f75d-47fa-bb72-ec1385ec6916
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/xRJDVR3.png" group-title="Music",Trace Urban
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelxpNetherlands.in" tvg-logo="https://i.imgur.com/8KQirah.png" group-title="Hobby/Leisure",Travelxp Netherlands
-
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Triton Poker
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/661827ffe8fba800086b217d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c337cedd-1f85-47bd-9251-abc6afd2a50a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Tu Pop Favorito
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-logo="https://i.imgur.com/hYiEwPe.png" group-title="Kids",TV Pop (720p)
-
+https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPoprad.sk" tvg-logo="https://i.imgur.com/x6ZvOp6.png" group-title="Kids",TV Poprad (1080p) [Not 24/7]
-
+http://213.81.153.221:8080/poprad
 #EXTINF:-1 tvg-id="TVSTalkNetwork.us" tvg-logo="https://i.imgur.com/WsaVAhx.png" group-title="News",TVS Talk Network (360p)
-
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="Sport",Unbeaten (1080p)
-
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",Unbeaten Sports
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c3b0bf0e086a0009e8a60d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e072630-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d441167-0fab-494c-981d-be5d461f5181
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Unsolved Mysteries
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e924f2be69bc0007b7d53d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6362993f-fcc4-4e58-9056-bca26f635dcb
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-logo="https://i.imgur.com/De3khrX.png" group-title="Movies",Unsolved Mysteries
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc202-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d38cc26-1fa3-46f8-bb13-79fb665ae910
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Unsolved Mysteries 2
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77884314396a00070dfd5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc203-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=43b991e6-0072-48e6-9263-1c12782e548b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Kids",Vevo Pop
-
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoPop.us" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Kids",Vevo Pop
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Waterbear
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Waterbear
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Talk show & Entertainment",Weatherspy
-
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Talk show & Entertainment",WeatherSpy
-
+https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.ca" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Talk show & Entertainment",Weatherspy (720p)
-
+https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Wicked Tuna
-
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="WickedTuna.at" tvg-logo="" group-title="Talk show & Entertainment",Wicked Tuna
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253d66c52b3600083d8dd2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b218265-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=96ea8773-469b-451c-90a0-2dcaee6777eb&serverSideAds=false
 #EXTINF:-1 tvg-id="WickedTuna.ch" tvg-logo="" group-title="Talk show & Entertainment",Wicked Tuna
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253d66c52b3600083d8dd2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86b2a7-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9b61cbae-61b7-454d-bddb-39071b87c7db&serverSideAds=false
 #EXTINF:-1 tvg-id="WickedTuna.de" tvg-logo="" group-title="Talk show & Entertainment",Wicked Tuna
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65253d66c52b3600083d8dd2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afd902-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd575e73-c062-40e3-827c-7cac678c25af&serverSideAds=false
 #EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Talk show & Entertainment",WildEarth [Geo-blocked]
-
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Reality TV",Wipeout
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a6f087606000767eae2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b45ce7a5-d6f7-4e7a-b14e-762d2646c053
 #EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-logo="https://i.imgur.com/UDeCRW1.png" group-title="Reality TV",Wipeout Xtra (720p)
-
+https://lnc-wipeout-xtra.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Talk show & Entertainment",Wonder
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",World Poker Tour
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4b755e8e770007387b79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e97-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=14cdb377-9292-4d37-85af-4d89aff56e90
 #EXTINF:-1 tvg-id="WorldPokerTour.at" tvg-logo="" group-title="Sport",World Poker Tour
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21a974-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=97bdb4b6-f530-4173-966d-19421ac303a0&serverSideAds=false
 #EXTINF:-1 tvg-id="WorldPokerTour.ch" tvg-logo="" group-title="Sport",World Poker Tour
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86d9b4-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=368bc423-6405-40d1-a385-9511861eca6c&serverSideAds=false
 #EXTINF:-1 tvg-id="WorldPokerTour.de" tvg-logo="https://i.imgur.com/jEe1dWV.png" group-title="Sport",World Poker Tour
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890&serverSideAds=false
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" group-title="Sport",World Poker Tour
-
+https://world-poker-tour-samsung-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.it" tvg-logo="https://i.imgur.com/e3yJ9QN.png" group-title="Sport",World Poker Tour Italy (720p)
-
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh 24/7
-
+https://fastmedia-yu-gi-oh-4-fr.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh!
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87c73085b8c0008fc8e95/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7cc5a0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5865c45c-42a3-4279-b47e-87d38f6e0cb4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh!
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6130d9c712c2b000070abb50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9dfe906b-1b35-424b-b7f0-ed75c3050f92
 #EXTINF:-1 tvg-id="YuGiOh.at" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh!
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b21d081-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ca5a27f-794c-41ee-b51a-6fbe1b093d0b&serverSideAds=false
 #EXTINF:-1 tvg-id="YuGiOh.ch" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh!
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc86d9b6-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb788c52-b6d0-48f4-99a5-61f412d9e79b&serverSideAds=false
 #EXTINF:-1 tvg-id="YuGiOh.de" tvg-logo="" group-title="Talk show & Entertainment",Yu-Gi-Oh!
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/642d4493aa2d690008f0a03f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00012-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7978130e-8cf9-40ac-8973-675ca743190d&serverSideAds=false
 #EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Talk show & Entertainment",Yu-Gi-Oh!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
